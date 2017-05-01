@@ -18875,15 +18875,15 @@ INSERT INTO `shopitems` VALUES ('6530', '1337', '2040710', '1', '0', '52');
 INSERT INTO `shopitems` VALUES ('6531', '1337', '2040711', '1', '0', '53');
 INSERT INTO `shopitems` VALUES ('6532', '1337', '2340000', '1', '0', '54');
 INSERT INTO `shopitems` VALUES ('20020', '1337', '1082149', '1', '0', '54');
-INSERT INTO `shopitems` VALUES ('6533', '9000069', '2022503', '0', '5', '1');
-INSERT INTO `shopitems` VALUES ('6534', '9000069', '2000004', '0', '5', '2');
-INSERT INTO `shopitems` VALUES ('6535', '9000069', '2022514', '0', '10', '3');
-INSERT INTO `shopitems` VALUES ('6536', '9000069', '2000005', '0', '10', '4');
-INSERT INTO `shopitems` VALUES ('6537', '9000069', '3010116', '0', '25', '5');
-INSERT INTO `shopitems` VALUES ('6538', '9000069', '1122017', '0', '30', '6');
-INSERT INTO `shopitems` VALUES ('6539', '9000069', '2049000', '0', '45', '7');
-INSERT INTO `shopitems` VALUES ('6540', '9000069', '2049100', '0', '70', '8');
-INSERT INTO `shopitems` VALUES ('6541', '9000069', '1003016', '0', '100', '9');
+-- INSERT INTO `shopitems` VALUES ('6533', '9000069', '2022503', '0', '5', '1');
+-- INSERT INTO `shopitems` VALUES ('6534', '9000069', '2000004', '0', '5', '2');
+-- INSERT INTO `shopitems` VALUES ('6535', '9000069', '2022514', '0', '10', '3');
+-- INSERT INTO `shopitems` VALUES ('6536', '9000069', '2000005', '0', '10', '4');
+-- INSERT INTO `shopitems` VALUES ('6537', '9000069', '3010116', '0', '25', '5');
+-- INSERT INTO `shopitems` VALUES ('6538', '9000069', '1122017', '0', '30', '6');
+-- INSERT INTO `shopitems` VALUES ('6539', '9000069', '2049000', '0', '45', '7');
+-- INSERT INTO `shopitems` VALUES ('6540', '9000069', '2049100', '0', '70', '8');
+-- INSERT INTO `shopitems` VALUES ('6541', '9000069', '1003016', '0', '100', '9');
 
 -- ----------------------------
 -- Table structure for `shops`
