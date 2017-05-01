@@ -24,6 +24,7 @@
 	Map(s): 		New Leaf City
 	Description: 		Quest - Pet Evolution
 */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.client);
 importPackage(Packages.server);
 

@@ -23,6 +23,7 @@
 /*
 Kerning PQ: 2nd stage to 3rd stage portal
 */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.server.maps);
 
 function enter(pi) {

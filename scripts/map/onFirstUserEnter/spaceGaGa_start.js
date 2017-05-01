@@ -23,7 +23,9 @@
  *@Author:     kevintjuh93
 */
 
-importPackage(Packages.tools); 
+load("nashorn:mozilla_compat.js");
+importPackage(Packages.tools);
+
 var player;
 
 function start(ms) { 

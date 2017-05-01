@@ -27,6 +27,7 @@
 
 var exitMap;
  
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.world);
 importPackage(Packages.client);
 importPackage(Packages.server.maps);

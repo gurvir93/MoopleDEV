@@ -33,6 +33,7 @@
 ---------------------------------------------------------------------------------------------------
 **/
 
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.tools);
 
 //Time Setting is in millisecond

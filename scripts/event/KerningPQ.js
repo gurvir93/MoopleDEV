@@ -37,7 +37,9 @@ INSERT monsterdrops (monsterid,itemid,chance) VALUES (9300002,4001008,1);
 INSERT monsterdrops (monsterid,itemid,chance) VALUES (9300003,4001008,1);
 */
 
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.world);
+
 var exitMap;
 var minPlayers = 4;
 

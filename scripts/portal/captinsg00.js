@@ -1,3 +1,4 @@
+//load("nashorn:mozilla_compat.js");
 //importPackage(server.maps);
 //importPackage(net.channel);
 //importPackage(tools);

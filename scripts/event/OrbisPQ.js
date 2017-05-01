@@ -27,6 +27,7 @@
  * Orbis Party Quest
  */
 
+load("nashorn:mozilla_compat.js");
 importPackage(java.lang);
 importPackage(Packages.world);
 importPackage(Packages.client);

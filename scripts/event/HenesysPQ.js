@@ -49,6 +49,7 @@
  */
 
 
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.net.world);
 importPackage(Packages.tools);
 

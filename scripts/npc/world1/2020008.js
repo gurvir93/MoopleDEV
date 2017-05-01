@@ -19,6 +19,7 @@
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.client);
 importPackage(Packages.server.quest);
 

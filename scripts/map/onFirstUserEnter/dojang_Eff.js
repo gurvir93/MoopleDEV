@@ -24,6 +24,7 @@
  *@Map(s):     All Dojo fighting maps
  *@Function:   Spawns dojo monsters and handles time
 */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.server.life);
 importPackage(Packages.tools);
 

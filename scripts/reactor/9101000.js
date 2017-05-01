@@ -27,6 +27,7 @@
  * [x]shows animation,
  * [x]makes stirges and stuff appear
  */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.tools);
 
 function act() {

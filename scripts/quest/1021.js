@@ -24,6 +24,7 @@
 	Map(s): 		Maple Road : Lower level of the Training Camp (2)
 	Description: 		Quest - Roger's Apple
 */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.client);
 
 var status = -1;

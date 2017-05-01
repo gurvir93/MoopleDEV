@@ -25,6 +25,7 @@
 * @Name:   So Gong
 * @Map(s): Dojo Hall
 */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.server.maps);
 
 var belts = Array(1132000, 1132001, 1132002, 1132003, 1132004);

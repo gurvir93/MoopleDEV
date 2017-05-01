@@ -40,6 +40,7 @@
 ---------------------------------------------------------------------------------------------------
 **/
 
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.tools);
 
 var Orbis_btf;

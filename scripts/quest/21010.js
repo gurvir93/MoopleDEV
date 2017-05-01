@@ -22,6 +22,7 @@
 /*	
 	Author : kevintjuh93
 */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.client);
 
 var status = -1;

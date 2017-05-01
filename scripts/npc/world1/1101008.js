@@ -1,3 +1,4 @@
+load("nashorn:mozilla_compat.js");
 importPackage(net.sf.odinms.client);
 
 function start() {

@@ -31,6 +31,7 @@
 ---------------------------------------------------------------------------------------------------
 **/
 
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.tools);
 importPackage(java.awt);
 

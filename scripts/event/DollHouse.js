@@ -22,6 +22,7 @@
 /**
  *Dollhouse Event
 **/
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.tools);
 
 var returnMap;

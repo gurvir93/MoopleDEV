@@ -32,7 +32,9 @@
 ---------------------------------------------------------------------------------------------------
 **/
 
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.scripting.reactor);
+
 var elevator_s;
 var elevator_m;
 var returnMap;

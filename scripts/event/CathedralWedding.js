@@ -24,8 +24,8 @@
  * 
  * Wedding for odinMS
  */
+load("nashorn:mozilla_compat.js");
 importPackage(java.lang);
-
 importPackage(Packages.world);
 importPackage(Packages.client);
 importPackage(Packages.server.maps);

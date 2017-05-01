@@ -24,6 +24,7 @@
  * @function: Warp character up and award player with dojo points
  * @maps:     All Dojo fighting maps
 */
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.tools);
 
 function enter(pi) {

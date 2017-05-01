@@ -40,6 +40,7 @@
 ---------------------------------------------------------------------------------------------------
 **/
 
+load("nashorn:mozilla_compat.js");
 importPackage(Packages.client);
 importPackage(Packages.tools);
 importPackage(Packages.server.life);
